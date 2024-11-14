@@ -10,7 +10,7 @@
 <div>
   <a href="https://www.linkedin.com/in/david-lins-amaral-1059b0211/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidlns&show_icons=true&theme=radical&include_all_commits=true&cout_private=true" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidlns&layout=compact&langs_cout=16&theme=radical" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidlns&layout=compact&langs_cout=16&theme=radical" />
 </div>
 
 <div style="display: inline_block"><br> 
