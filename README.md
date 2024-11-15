@@ -4,7 +4,7 @@
 - 🌱 I'm currently studying React
 - 👓 I love programming and technology
 - 🧐 Higher education in Fullstack Development
-- 🎓 Student at Estácio de Sá University
+- 🎓 Student at Estácio University
 - ⚡ Hard Skills: JavaScript, Python, TypeScript, React JS, Next JS, Angular, Vue JS, MongoDB, API REST
 
 <div>
