@@ -1,5 +1,5 @@
-## <font color="#8400ff">Hello World, I'm David, I'm a Brazilian programmer!👋</font>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f74287&size=30&left=true&vleft=true&width=1000&lines=Hello!,+My+name+is+David+Lins!;I+am+a+Brazilian+Programer!+:%29)](https://git.io/typing-svg)
+##
 - 👨‍💻 FullStack Developer
 - 🌱 I'm currently studying React
 - 👓 I love programming and technology
