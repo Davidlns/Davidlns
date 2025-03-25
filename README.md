@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f74287&size=30&left=true&vleft=true&width=1000&lines=Hello!,+My+name+is+David+Lins!;I+am+a+Brazilian+Programer!+:%29)](https://git.io/typing-svg)
 ##
 - 👨‍💻 FullStack Developer
-- 🌱 I'm currently studying React
+- 🌱 I'm currently studying Java
 - 👓 I love programming and technology
 - 🧐 Higher education in Fullstack Development
 - 🎓 Student at Estácio University
