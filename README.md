@@ -5,7 +5,7 @@
 - 👓 I love programming and technology
 - 🧐 Higher education in Fullstack Development
 - 🎓 Student at Estácio University
-- ⚡ Hard Skills: JavaScript, Python, TypeScript, React JS, Next JS, Angular, Vue JS, MongoDB, API REST
+- ⚡ Hard Skills: Java, JavaScript, Python, TypeScript, React JS, Next JS, NoSQL/SQL, API REST
 
 <div>
   <a href="https://www.linkedin.com/in/david-lins-amaral-1059b0211/">
