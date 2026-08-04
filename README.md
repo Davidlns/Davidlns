@@ -4,7 +4,7 @@
 - 🌱 I'm currently studying TypeScript
 - 👓 I love programming and technology
 - 🧐 Higher education in Fullstack Development
-- ⚡ Hard Skills: Java, JavaScript, Python, TypeScript, React JS, Next JS, NoSQL/SQL, API REST
+- ⚡ Hard Skills: Java, Spring ,TypeScript, React JS, Next JS, NoSQL/SQL, API REST
 
 <div style="display: inline_block">
   <img align="center" alt="David Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
