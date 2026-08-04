@@ -8,7 +8,6 @@
 - ⚡ Hard Skills: Java, JavaScript, Python, TypeScript, React JS, Next JS, NoSQL/SQL, API REST
 
 <div>
-  <a href="https://www.linkedin.com/in/david-lins-amaral-1059b0211/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidlns&show_icons=true&theme=radical&include_all_commits=true&cout_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidlns&layout=compact&langs_cout=16&theme=radical" />
 </div>
@@ -23,7 +22,7 @@
   <img align="center" alt="David HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="David Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="David Postgress" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgress/postgress-plain.svg">
+  <img align="center" alt="David Postgress" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   
 </div>
 
