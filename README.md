@@ -4,7 +4,6 @@
 - 🌱 I'm currently studying TypeScript
 - 👓 I love programming and technology
 - 🧐 Higher education in Fullstack Development
-- 🎓 Student at Estácio University
 - ⚡ Hard Skills: Java, JavaScript, Python, TypeScript, React JS, Next JS, NoSQL/SQL, API REST
 
 <div style="display: inline_block">
